@@ -1,7 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
 .top{
      background-image: url("../../public/background.svg");
      height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
      width: 100%;
+     font-family: 'Righteous', cursive;
+     text-align: center;
+     padding-top: 80px;
+}
+.topPage-subText{
+    /* font-family: ; */
+}
+.orange-text{
+    color: #F48C06;
 }
