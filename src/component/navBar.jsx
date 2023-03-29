@@ -2,7 +2,7 @@
 import { Navbar, Nav, Container } from "react-bootstrap";
 import { AiOutlineTwitter, AiOutlineInstagram } from "react-icons/ai";
 import { FaFacebookF, FaLinkedin } from "react-icons/fa";
-import { IoBasketballOutline } from "react-icons/io";
+// import { IoBasketballOutline } from "react-icons/io";
 
 function NavBar() {
   //     const [isMobile, setIsMobile] = useState()
